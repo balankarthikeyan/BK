@@ -5586,6 +5586,7 @@ Created using IcoMoon - icomoon.io
   width: 100%;
   height: 100%;
   z-index: -1;
+  background-color: #4b21ff;
 }
 
 .page-header footer {
@@ -5636,9 +5637,9 @@ Created using IcoMoon - icomoon.io
   content: "";
 }
 
-.page-header:before {
+/* .page-header:before {
   background-color: rgba(0, 0, 0, 0.5);
-}
+} */
 
 .page-header[filter-color="orange"] {
   background: rgba(44, 44, 44, 0.2);
