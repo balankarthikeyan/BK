@@ -7818,3 +7818,10 @@ a.credit {
 .section {
   padding-bottom: 0;
 }
+
+a.btn.btn-primary.smooth-scroll.mr-2.aos-init.aos-animate,
+a.btn.btn-primary.aos-init.aos-animate {
+  background: #fefefe;
+  color: #4825eb;
+  font-size: 14px;
+}
